@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: serif;
+  font-family: "Open Sans", sans-serif;
+  color: #333333;
+}
+
+body {
+  background-color: #f5f4f0;
+  margin: 80px auto;
+  width: 1120px;
+}
+
+.p_title {
+  color: #E1624F;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+h1 {
+  margin-bottom: 40px;
+  font-size: 36px;
+  color: #1B1B1B;
+}
+
+h2 {
+  color: #1B1B1B;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.busan {
+  margin-bottom: 24px;
+}
+
+main img {
+  border-radius: 28px;
+}

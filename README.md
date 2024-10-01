@@ -1,6 +1,7 @@
 # Página Web de Local Turístico
 
-Este projeto faz parte do curso **Full-Stack** da [Rocketseat](https://www.rocketseat.com.br/). O objetivo é desenvolver uma página web com informações sobre um local turístico, utilizando somente **HTML** e **CSS**.
+Este projeto faz parte do curso **Full-Stack** da [Rocketseat](https://www.rocketseat.com.br/). 
+O objetivo é desenvolver uma página web com informações sobre um local turístico, utilizando somente **HTML** e **CSS**.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -24,4 +25,4 @@ A página web terá as seguintes características:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Jreng7/desafio_local_turistico
