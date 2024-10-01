@@ -22,22 +22,42 @@ body {
   font-weight: bold;
 }
 
+.p_history_title {
+  color: #E1624F;
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+
 h1 {
   margin-bottom: 40px;
   font-size: 36px;
   color: #1B1B1B;
 }
 
-h2 {
+.title_history {
   color: #1B1B1B;
   font-size: 32px;
   font-weight: bold;
+  margin-bottom: 8px;
 }
+
 
 .busan {
   margin-bottom: 24px;
+  border-radius: 28px;
 }
 
-main img {
-  border-radius: 28px;
+figcaption {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+main {
+  border-top: 1px solid #D9D9D9;
+  padding-top: 64px;
+}
+
+.p_history_descrip {
+  color: #333333;
+  margin-bottom: 64px;
 }
