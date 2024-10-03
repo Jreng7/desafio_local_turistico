@@ -73,9 +73,18 @@ main {
 h3 {
   font-size: 28px;
   font-weight: bold;
+  margin-bottom: 4px;
 }
 
-ul li::marker {
-  color: #333333;
+.p_bom-para {
+  font-weight: bold;
 }
 
+.ul_history > li {
+  color: #0C51A7;
+  font-weight: bold;
+}
+
+.p_haedong {
+  margin-bottom: 24px;
+}
