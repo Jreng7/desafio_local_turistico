@@ -120,3 +120,7 @@ footer {
   margin: 65px 0;
   text-align: center;
 }
+
+footer > img {
+  vertical-align: middle;
+}
