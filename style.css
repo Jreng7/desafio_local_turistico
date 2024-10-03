@@ -80,10 +80,12 @@ h3 {
   font-weight: bold;
 }
 
-.ul_history > li {
+.ul_history> li {
   color: #0C51A7;
   font-weight: bold;
+  margin-bottom: 48px;
 }
+
 
 .p_haedong {
   margin-bottom: 24px;
